@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Franciellen 
 - 👀 I’m interested in numerical, logical and analyst fields.
 - 🌱 I’m currently learning Python, Power BI, SQL and Data.
-- 📫 How to reach me fs.cruz@hotmail.com and www.linkedin.com/in/franciellen-souza-cruz/
+- 📫 How to reach me fs.cruz@hotmail.com 
 
 
 <!---
